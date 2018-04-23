@@ -1,2 +1,0 @@
-# NirvanaPlatformDocuments
-Project Document
